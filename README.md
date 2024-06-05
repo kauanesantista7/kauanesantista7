@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @kauanesantista7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kauanesantista7/kauanesantista7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- oi gente,sou uma menina bem clubista,
+- mato e morro pelo meu time,
+- estar com o santos como e onde ele estiver,
+- so nós temos pelé!
+- meu coraçao é alvinegro e bate forte por você SANTOS VOCE É MINHA VIDA E EU TE AMAREI ATÉ MORRER!!!
+- KAU SANTISTA
+- AMO MEU NAMORADO,BEIJOS
 --->
